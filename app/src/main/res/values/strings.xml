@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FriendlyChat</string>
+    <string name="to_add_new_users">to add new users</string>
+    <string name="image_of_the_user_s_email">Image of the user\'s email</string>
+    <string name="like_button_icon">Like Button icon</string>
+    <string name="sign_out">Sign Out</string>
+</resources>
